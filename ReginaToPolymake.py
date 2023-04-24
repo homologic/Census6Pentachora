@@ -11,6 +11,8 @@
 
 #Import the triangulation in Regina
 
+import sys
+
 t=Triangulation4(sys.argv[1])
 
 
@@ -47,7 +49,7 @@ with open(sys.argv[2], 'w') as output:
 	
 	for row in FacetList:
 		s = " ".join(map(str, row))
-      		output.write('  <v> ' + s + ' </v> \n')
+		output.write('  <v> ' + s + ' </v> \n')
         	
 	output.write(' </m> \n')
 	output.write('</data>')
