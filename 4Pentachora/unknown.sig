@@ -1,5 +1,2 @@
 eAMPcaabcddd+aoa+awb8aRbpb
 eAMPcaabcddd+aoa+aAa8aQara
-eALQcaaccddd+aoazbGbyaPbka
-eALQcaaccddd+aoazbJbya6aja
-eLAQcabcdcdd5aaaIb3a5aZbtb
