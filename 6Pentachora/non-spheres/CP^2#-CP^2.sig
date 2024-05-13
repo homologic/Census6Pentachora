@@ -1,0 +1,7 @@
+gALAAQaabcddeeffya1a1avaJa2akbraoara
+gAMMPPaabccdeeff+aoa+aAaqbqbAa+a+aoa
+gALAAQaabccdeeff2aoawavawafa3aQbPbQb
+gALQLQaaddcceeff+aoavbtavawaSabaqbga
+gALAMQaacdcdeeff+aoawbaaYa+ayaYa+aoa
+gALAMQaacdcdeeffPbgaVbaa1afbya1afbva
+gALAMQaacdcdeeff+aoawbaaYa+ayaYaqbga
